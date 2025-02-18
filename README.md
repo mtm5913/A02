@@ -2,7 +2,8 @@ PART 1: Directions on Using Visual Studio Code/GIT/GitHub:
 
 Set Up Git (MacOS; Homebrew):
 1. Choose one of the following options for installing Git on macOS (Git, nd):
-    a. Homebrew 
+
+   a. Homebrew 
         i. URL: https://brew.sh/
     b. MacPorts
         i. URL: https://www.macports.org/install.php
@@ -15,12 +16,12 @@ Set Up Git (MacOS; Homebrew):
     f. Installing git-gui
         i. URL: (use homebrew) https://brew.sh/
         ii. Prompt: brew install git-gui
-2. Open MacOS terminal
-3. (Using Homebrew) Copy, Paste, and Run prompt in MacOS terminal:
+3. Open MacOS terminal
+4. (Using Homebrew) Copy, Paste, and Run prompt in MacOS terminal:
     a. Prompt: $ brew install git
-4. Set username (GitHub, n.d., Set up Git)
+5. Set username (GitHub, n.d., Set up Git)
     a. Prompt: $ git config --global user.name "Your Name"
-5. Set email (GitHub, n.d., Set up Git)
+6. Set email (GitHub, n.d., Set up Git)
     a. Prompt: $ git config --global user.email "your.email@example.com"
 
 Set Up GitHub:
@@ -90,6 +91,9 @@ PART 2: Glossary:
 References
 
 Chinthala, L. A. (2024, October 19). How to setup VS Code IDE [Video]. Panopto. https://njit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c61f03ed-f0b0-4a74-b6f3-b1fd0004ac2a
+
 Git. (n.d.). Git - Downloads. Git SCM. Retrieved February 18, 2025, from https://git-scm.com/downloads
+
 GitHub. (n.d.). GitHub glossary. GitHub Docs. Retrieved February 17, 2025, from https://docs.github.com/en/get-started/learning-about-github/github-glossary
+
 GitHub. (n.d.). Set up Git. GitHub Docs. Retrieved February 18, 2025, from https://docs.github.com/en/get-started/getting-started-with-git/set-up-git

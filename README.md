@@ -3,62 +3,114 @@ PART 1: Directions on Using Visual Studio Code/GIT/GitHub:
 Set Up Git (MacOS; Homebrew):
 1. Choose one of the following options for installing Git on macOS (Git, nd):
 
-   a. Homebrew 
-        i. URL: https://brew.sh/
-    b. MacPorts
-        i. URL: https://www.macports.org/install.php
-    c. Xcode
-        i. URL: https://developer.apple.com/xcode/
-    d. Binary Installer
-        i. URL: https://sourceforge.net/projects/git-osx-installer/
-    e. Building from source
-        i. URL: https://www.kernel.org/pub/software/scm/git/
-    f. Installing git-gui
-        i. URL: (use homebrew) https://brew.sh/
-        ii. Prompt: brew install git-gui
-3. Open MacOS terminal
-4. (Using Homebrew) Copy, Paste, and Run prompt in MacOS terminal:
-    a. Prompt: $ brew install git
-5. Set username (GitHub, n.d., Set up Git)
-    a. Prompt: $ git config --global user.name "Your Name"
-6. Set email (GitHub, n.d., Set up Git)
-    a. Prompt: $ git config --global user.email "your.email@example.com"
+      a. Homebrew 
+
+            i. URL: https://brew.sh/
+
+      b. MacPorts
+
+            i. URL: https://www.macports.org/install.php
+
+      c. Xcode
+
+            i. URL: https://developer.apple.com/xcode/
+
+      d. Binary Installer
+
+            i. URL: https://sourceforge.net/projects/git-osx-installer/
+
+      e. Building from source
+
+            i. URL: https://www.kernel.org/pub/software/scm/git/
+
+      f. Installing git-gui
+
+            i. URL: (use homebrew) https://brew.sh/
+
+            ii. Prompt: brew install git-gui
+
+2. Open MacOS terminal
+
+3. (Using Homebrew) Copy, Paste, and Run prompt in MacOS terminal:
+
+      a. Prompt: $ brew install git
+
+4. Set username (GitHub, n.d., Set up Git)
+
+      a. Prompt: $ git config --global user.name "Your Name"
+
+5. Set email (GitHub, n.d., Set up Git)
+
+      a. Prompt: $ git config --global user.email "your.email@example.com"
 
 Set Up GitHub:
+
 1. Go to the GitHub website
-    a. URL: https://github.com/
+
+      a. URL: https://github.com/
+
 2. Find the sign up button:
-    a. URL: https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+
+      a. URL: https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+
 3. Create username
+
 4. Enter email and password
+
 5. Verify email
 
 Set Up Visual Studio Code (Chinthala, 2024):
+
 1. Go to the Visual Studio Code download website
-    a. URL: https://code.visualstudio.com/download
+
+      a. URL: https://code.visualstudio.com/download
+
 2. Create a New Folder on your computer
+
 3. Once created, open Visual Studio Code
+
 4. Click the “Open Folder” button and find the folder you just created and open it
+
 5. If needed, allow access and tell the system to trust authors
+
 6. Once you’re back at the homepage, that new folder should appear on the left-hand side and you will select the “New File” button to the right of the new folder name
-    a. It will be the first icon that looks like a piece of paper that is dog-eared with a plus, and when you hover over the icon, it will say “New File”
-    b. Once created, it will immediately bring you into the new file
+
+      a. It will be the first icon that looks like a piece of paper that is dog-eared with a plus, and when you hover over the icon, it will say “New File”
+
+      b. Once created, it will immediately bring you into the new file
+
 7. In the left-hand side bar, click on the Extensions icon
-    a. It looks like a square broken into 4 pieces with the top left corner detached from it, and when you hover over the icon it will say “Extensions”
+
+      a. It looks like a square broken into 4 pieces with the top left corner detached from it, and when you hover over the icon it will say “Extensions”
+
 8. In the search bar in the top left corner, type “Code Runner”, and install it
-    a. Identifier: formulahendry.code-runner
-    b. URL: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+
+      a. Identifier: formulahendry.code-runner
+
+      b. URL: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+
 9. In the search bar, type “HTML CSS Support”, and install it
-    a. Identifier: ecmel.vscode-html-css
-    b. URL: https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
+
+      a. Identifier: ecmel.vscode-html-css
+
+      b. URL: https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
+
 10. In the search bar, type “JavaScript (ES6) code snippets”, and install it
-    a. Identifier: xabikos.javascri
-    b. URL: https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
+
+      a. Identifier: xabikos.javascri
+
+      b. URL: https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
+
 11. In the search bar, type “GitHub Pull Requests”, and install it
-    a. Identifier: github.vscode-pull-request-github
-    b. URL: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
+
+      a. Identifier: github.vscode-pull-request-github
+
+      b. URL: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
+
 12. You should be prompted to sign into GitHub, so sign in
-    a. In the bottom left corner, a profile icon will have a notification pop-up to prompt you to sign into GitHub in order to use the last extension installed, GitHub Pull Requests
+
+      a. In the bottom left corner, a profile icon will have a notification pop-up to prompt you to sign into GitHub in order to use the last extension installed, GitHub Pull Requests
+
 13. Select the green button that reads “Authorize Visual-Studio-Code”
 
 
